@@ -1,0 +1,65 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+header {
+  background-color: white;
+  padding: 10px;
+  text-align: left;
+}
+header h1 {
+  color: blue !important;
+  font-size: 80px;
+}
+.hero {
+  background-color: black;
+  color: white;
+  padding: 20px;
+}
+.hero h2 {
+  font-size: 18px; /* Decrease the font size for headings */
+}
+
+.hero p {
+  font-size: 20px; /* Increase the font size for paragraphs */
+}
+.bold-text {
+  font-size: 24px; /* Adjust the font size for the second paragraph */
+  font-weight: bold; /* Bolden the text */
+}
+.content {
+  background-color: white;
+  padding: 20px;
+}
+.bold-blue-text {
+  font-size: 18px; /* Adjust the font size for the first paragraph */
+  font-weight: bold; /* Bolden the text */
+  color: blue; /* Set the text color to blue */
+}
+.bold-larger-text {
+  font-size: 500px; /* Adjust the font size for the second paragraph */
+  font-weight: bold; /* Bolden the text */
+}
+.italic-text {
+  font-style: italic; /* Italicize the text */
+}
+.grey-section {
+  background-color: grey;
+  padding: 20px;
+}
+
+.grey-section h3 {
+  font-size: 16px; /* Decrease the font size for section headings */
+}
+
+.grey-section-paragraph {
+  font-size: 18px; /* Increase the font size for section paragraphs */
+}
+.content h3 {
+  font-size: 16px; /* Decrease the font size for section headings */
+}
+
+.content p {
+  font-size: 18px; /* Increase the font size for section paragraphs */
+}
